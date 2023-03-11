@@ -3,6 +3,9 @@ def add_two_numbers(x,y):
     summ = x + y
     return summ
 
-print(add_two_numbers(5,6))
+def substruction_(x,y):
+    '''функция вычитает из х у'''
+    substr = x - y
+    return substr
 
 
