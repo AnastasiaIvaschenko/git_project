@@ -7,5 +7,6 @@ def substruction_(x,y):
     '''функция вычитает из х у'''
     substr = x - y
     return substr
-
+def func():
+    print('Hello word')
 
